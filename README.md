@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **wilsongibbs/wilsongibbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +20,4 @@ I'm Wilson
 - Software developer
 - Undergraduate
 - Currently working on Java
-- Know about me: [My blog](https://www.wilsongibbs.com)
+- Know more about me: [My blog](https://www.wilsongibbs.com)
