@@ -1,23 +1,31 @@
 # Hi there
 
-<!--
-**wilsongibbs/wilsongibbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 I'm Wilson
 
-- Software developer
+- A software developer
+
 - Undergraduate
-- Currently working on Java
-- Know more about me: [My blog](https://www.wilsongibbs.com)
+
+- Love open source 
+
+- Enjoy learning new things
+
+- Code for fun
+
+  
+
+## Currently Using
+
+![Java](https://img.shields.io/badge/-Java-e06a00?style=flat-square&logo=Java&labelColor=orange&logoColor=FFF) ![Python](https://img.shields.io/badge/-Python-2d5f96?style=flat-square&logo=Python&labelColor=3776AB&logoColor=FFF) ![](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff) ![](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3&labelColor=1572b6) ![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000) ![IDEA](https://img.shields.io/badge/-IDEA-000?style=flat-square&logo=intellij-idea&logoColor=FFF)
+
+Focus on backend development and web design.
+
+
+
+## Social Media
+
+[![Twitter](https://img.shields.io/badge/-@WilsongibbsZ-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/WilsongibbsZ) [![Blog](https://img.shields.io/badge/-https://wilsongibbs.com-grey?style=flat-square&logo=Hexo&logoColor=fff)](https://www.wilsongibbs.com) [![Email](https://img.shields.io/badge/-wilsongibbs.com@gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white&labelColor=c14438)](mailto:wilsongibbs.com_at_google.com)
+
+You can also visit my photography gallery if interested
+
+[![Photography](https://img.shields.io/badge/-https://nsrain.com-0e83cd?style=flat-square&logo=WordPress&logoColor=fff)](https://www.wilsongibbs.com)
