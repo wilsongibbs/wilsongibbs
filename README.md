@@ -1,5 +1,7 @@
 # Hi there
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsongibbs&layout=compact" />
+
 I'm Wilson
 
 - Programmer
@@ -7,6 +9,7 @@ I'm Wilson
 - Undergraduate
 
 - Love open source
+  
   
 
 ## Currently Using
