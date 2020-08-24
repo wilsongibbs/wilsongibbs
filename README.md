@@ -23,5 +23,3 @@ Focus on backend development and web design
 ## Social Media
 
 [![Twitter](https://img.shields.io/badge/-@WilsongibbsZ-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/WilsongibbsZ) [![Blog](https://img.shields.io/badge/-https://wilsongibbs.com-grey?style=flat-square&logo=Hexo&logoColor=fff)](https://www.wilsongibbs.com) [![Email](https://img.shields.io/badge/-wilsongibbs.com@gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white&labelColor=c14438)](mailto:wilsongibbs.com@google.com)
-
-You can also visit my photography gallery if interested-> [![Photography](https://img.shields.io/badge/-https://nsrain.com-0e83cd?style=flat-square&logo=WordPress&logoColor=fff)](https://nsrain.com)
