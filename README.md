@@ -1,6 +1,6 @@
 # Hi there
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsongibbs&layout=compact" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonovo&layout=compact" />
 
 I'm Wilson
 
