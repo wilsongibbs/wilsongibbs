@@ -22,4 +22,5 @@ Focus on backend development and web design
 
 ## Social Media
 
-[![Twitter](https://img.shields.io/badge/-@WilsongibbsZ-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/WilsongibbsZ) [![Blog](https://img.shields.io/badge/-https://wilsongibbs.com-grey?style=flat-square&logo=Hexo&logoColor=fff)](https://www.wilsongibbs.com) [![Email](https://img.shields.io/badge/-wilsongibbs.com@gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white&labelColor=c14438)](mailto:wilsongibbs.com@google.com)
+[![Blog](https://img.shields.io/badge/-https://wilsonovo.com-grey?style=flat-square&logo=Hexo&logoColor=fff)](https://www.wilsonovo.com) 
+[![Email](https://img.shields.io/badge/-quantumfram@gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white&labelColor=c14438)](mailto:quantumfram@gmail.com)
